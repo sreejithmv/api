@@ -5,12 +5,6 @@
     "result": {
         "abstract-login.welcomeMsg": "To get full access, please enter your credentials.",
         "advancedSettings": "Advanced settings",
-        "all": "All",
-        "aod.headline": "Music Library",
-        "aod.noTitles": "No audio titles available at this time.",
-        "arrive": "Arrive",
-        "authentication.birthday": "Date of Birth",
-        "authentication.birthday.error": "Please enter your date of birth.",
     },
     "resultAttachment": {
     },
